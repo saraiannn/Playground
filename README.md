@@ -6,9 +6,9 @@ Unlike my academic archive, this space is dedicated to personal curiosity and se
 
 ## 📂 Featured Experiments
 
-- **Snake-Game**: a simple snake game built in Java using Swing.
-- **ExpenseTracker**: console-based budget management application built to get started with pure Java.
-- **interactive-menu:** an interactive operation menu in C++.
+- **`Snake-Game/`**: a simple snake game built in Java using Swing.
+- **`ExpenseTracker/`**: console-based budget management application built to get started with pure Java.
+- **`interactive-menu/`:** an interactive operation menu in C++.
 
 ## 🛠️ Tech Stack & Tools
 I use this space to play with:
