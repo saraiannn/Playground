@@ -6,12 +6,13 @@ Unlike my academic archive, this space is dedicated to personal curiosity and se
 
 ## 📂 Featured Experiments
 
-- **[Nome Progetto 1]**: A brief description of what this does (e.g., "A simple Python script for data scraping").
-- **[Nome Progetto 2]**: Why I built this and what I learned (e.g., "First experiment with React components").
+- **Snake-Game**: a simple snake game built in Java using Swing.
+- **ExpenseTracker**: console-based budget management application built to get started with pure Java.
+- **interactive-menu:** an interactive operation menu in C++.
 
 ## 🛠️ Tech Stack & Tools
 I use this space to play with:
-- **Languages:** 
-- **Tools:** Git, VS Code.
+- **Languages:** Java, C++.
+- **Tools:** Git, VS Code, IntelliJ.
 ---
 *Feel free to explore, but mind the mess!*
